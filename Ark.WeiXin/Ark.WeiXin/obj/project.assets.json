@@ -33,6 +33,61 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "NPinyin.Core/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NPinyin.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/NPinyin.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "PinYinConverterCore/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/PinYinConverterCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/PinYinConverterCore.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Scalar.AspNetCore/1.2.44": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/Scalar.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Scalar.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "Voy.Toolkit.Common/1.0.31": {
+        "type": "package",
+        "dependencies": {
+          "NPinyin.Core": "3.0.0",
+          "PinYinConverterCore": "1.0.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Voy.Toolkit.Common.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Voy.Toolkit.Common.dll": {}
+        }
       }
     }
   },
@@ -67,11 +122,81 @@
         "microsoft.openapi.1.6.17.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
+    },
+    "NPinyin.Core/3.0.0": {
+      "sha512": "l4RuTh0JEJBc23u6SCmpu2k9I7ph+Q2snoqrkYS9IlkM/VeTl+hvHKvrPnPlflmVaIi1lmVVs/NZZYbM2ILqJw==",
+      "type": "package",
+      "path": "npinyin.core/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net30/NPinyin.Core.dll",
+        "lib/net30/NPinyin.Core.xml",
+        "lib/net35/NPinyin.Core.dll",
+        "lib/net35/NPinyin.Core.xml",
+        "lib/net40/NPinyin.Core.dll",
+        "lib/net40/NPinyin.Core.xml",
+        "lib/net45/NPinyin.Core.dll",
+        "lib/net45/NPinyin.Core.xml",
+        "lib/netstandard1.6/NPinyin.Core.dll",
+        "lib/netstandard1.6/NPinyin.Core.xml",
+        "lib/netstandard2.0/NPinyin.Core.dll",
+        "lib/netstandard2.0/NPinyin.Core.xml",
+        "npinyin.core.3.0.0.nupkg.sha512",
+        "npinyin.core.nuspec"
+      ]
+    },
+    "PinYinConverterCore/1.0.2": {
+      "sha512": "GWGUL7HYyyTZeVltwgJ2sr8ER+Wyj1aR44KN1A5GS0iB3j/JqXDG62OHupz3iFczCQ4797IhHSSqOet7MvsWJQ==",
+      "type": "package",
+      "path": "pinyinconvertercore/1.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/PinYinConverterCore.dll",
+        "lib/net45/PinYinConverterCore.xml",
+        "lib/netstandard2.0/PinYinConverterCore.dll",
+        "lib/netstandard2.0/PinYinConverterCore.xml",
+        "pinyinconvertercore.1.0.2.nupkg.sha512",
+        "pinyinconvertercore.nuspec"
+      ]
+    },
+    "Scalar.AspNetCore/1.2.44": {
+      "sha512": "swXQKJZVY4U5OiV9N6s5NgssTe+OdPS2o6Qi1EYn7NOlmjiZh+e5Uj237JoGPpybie35bTEKKYidEn2+GE6Vzg==",
+      "type": "package",
+      "path": "scalar.aspnetcore/1.2.44",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "icon.png",
+        "lib/net8.0/Scalar.AspNetCore.dll",
+        "lib/net8.0/Scalar.AspNetCore.xml",
+        "lib/net9.0/Scalar.AspNetCore.dll",
+        "lib/net9.0/Scalar.AspNetCore.xml",
+        "scalar.aspnetcore.1.2.44.nupkg.sha512",
+        "scalar.aspnetcore.nuspec"
+      ]
+    },
+    "Voy.Toolkit.Common/1.0.31": {
+      "sha512": "DKXgQra7u9ptVO1MjmmHaIujQ8wFgWiy4W3/DIMRnd7bKxuOZX6sUY397bLBOvXZSLpON2rYhspUvpkf97gzLA==",
+      "type": "package",
+      "path": "voy.toolkit.common/1.0.31",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/netstandard2.0/Voy.Toolkit.Common.dll",
+        "voy.toolkit.common.1.0.31.nupkg.sha512",
+        "voy.toolkit.common.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Microsoft.AspNetCore.OpenApi >= 9.0.0"
+      "Microsoft.AspNetCore.OpenApi >= 9.0.0",
+      "Scalar.AspNetCore >= 1.2.44",
+      "Voy.Toolkit.Common >= 1.0.31"
     ]
   },
   "packageFolders": {
@@ -129,6 +254,14 @@
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[9.0.0, )"
+          },
+          "Scalar.AspNetCore": {
+            "target": "Package",
+            "version": "[1.2.44, )"
+          },
+          "Voy.Toolkit.Common": {
+            "target": "Package",
+            "version": "[1.0.31, )"
           }
         },
         "imports": [

@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "fXULs5q9MTs=",
+  "dgSpecHash": "Hiib5ODd5B4=",
   "success": true,
   "projectFilePath": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\Ark.WeiXin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
-    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\npinyin.core\\3.0.0\\npinyin.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\pinyinconvertercore\\1.0.2\\pinyinconvertercore.1.0.2.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\scalar.aspnetcore\\1.2.44\\scalar.aspnetcore.1.2.44.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\voy.toolkit.common\\1.0.31\\voy.toolkit.common.1.0.31.nupkg.sha512"
   ],
   "logs": []
 }

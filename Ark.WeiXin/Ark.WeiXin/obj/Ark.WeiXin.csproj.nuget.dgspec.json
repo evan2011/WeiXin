@@ -55,6 +55,14 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Scalar.AspNetCore": {
+              "target": "Package",
+              "version": "[1.2.44, )"
+            },
+            "Voy.Toolkit.Common": {
+              "target": "Package",
+              "version": "[1.0.31, )"
             }
           },
           "imports": [

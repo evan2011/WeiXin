@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ark.WeiXin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b934c77c2e2340605996f967c201e7aaaceb6fc9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c07d1352faec04b6a9750110d65fb248891571a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ark.WeiXin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ark.WeiXin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

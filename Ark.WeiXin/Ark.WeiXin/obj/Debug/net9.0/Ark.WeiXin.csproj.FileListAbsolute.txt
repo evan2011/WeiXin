@@ -1,0 +1,8 @@
+F:\github\WeiXin\Ark.WeiXin\Ark.WeiXin\obj\Debug\net9.0\Ark.WeiXin.csproj.AssemblyReference.cache
+F:\github\WeiXin\Ark.WeiXin\Ark.WeiXin\obj\Debug\net9.0\Ark.WeiXin.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\WeiXin\Ark.WeiXin\Ark.WeiXin\obj\Debug\net9.0\Ark.WeiXin.AssemblyInfoInputs.cache
+F:\github\WeiXin\Ark.WeiXin\Ark.WeiXin\obj\Debug\net9.0\Ark.WeiXin.AssemblyInfo.cs
+F:\github\WeiXin\Ark.WeiXin\Ark.WeiXin\obj\Debug\net9.0\Ark.WeiXin.csproj.CoreCompileInputs.cache
+F:\github\WeiXin\Ark.WeiXin\Ark.WeiXin\obj\Debug\net9.0\Ark.WeiXin.MvcApplicationPartsAssemblyInfo.cs
+F:\github\WeiXin\Ark.WeiXin\Ark.WeiXin\obj\Debug\net9.0\Ark.WeiXin.MvcApplicationPartsAssemblyInfo.cache
+F:\github\WeiXin\Ark.WeiXin\Ark.WeiXin\obj\Debug\net9.0\Ark.WeiXin.sourcelink.json

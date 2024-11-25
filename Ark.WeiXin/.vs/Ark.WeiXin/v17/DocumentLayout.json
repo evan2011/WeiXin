@@ -3,8 +3,64 @@
   "WorkspaceRootPath": "F:\\github\\WeiXin\\Ark.WeiXin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\weixin\\snsapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\weixin\\snsapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\weixin\\returncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\weixin\\returncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\weixin\\labelcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\weixin\\labelcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\weixin\\isnsapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\weixin\\isnsapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\weixin\\sns\\jscode2jsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\weixin\\sns\\jscode2jsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\weixin\\entities\\wxjsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\weixin\\entities\\wxjsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\weixin\\entities\\msgseccheckresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\weixin\\entities\\msgseccheckresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\weixin\\entities\\ijsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\weixin\\entities\\ijsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\weixin\\entities\\iaccesstokenresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\weixin\\entities\\iaccesstokenresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\weixin\\entities\\basejsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\weixin\\entities\\basejsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\weixin\\entities\\accesstokenresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\weixin\\entities\\accesstokenresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\models\\weixinsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\models\\weixinsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|f:\\github\\weixin\\ark.weixin\\ark.weixin\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CE1885-903C-4DF4-9CD5-FEC7611C0718}|Ark.WeiXin\\Ark.WeiXin.csproj|solutionrelative:ark.weixin\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,15 +94,197 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WxJsonResult.cs",
+              "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\Entities\\WxJsonResult.cs",
+              "RelativeDocumentMoniker": "Ark.WeiXin\\WeiXin\\Entities\\WxJsonResult.cs",
+              "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\Entities\\WxJsonResult.cs",
+              "RelativeToolTip": "Ark.WeiXin\\WeiXin\\Entities\\WxJsonResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:10:35.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JsCode2JsonResult.cs",
+              "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\Sns\\JsCode2JsonResult.cs",
+              "RelativeDocumentMoniker": "Ark.WeiXin\\WeiXin\\Sns\\JsCode2JsonResult.cs",
+              "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\Sns\\JsCode2JsonResult.cs",
+              "RelativeToolTip": "Ark.WeiXin\\WeiXin\\Sns\\JsCode2JsonResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:10:40.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISnsApiClient.cs",
+              "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\ISnsApiClient.cs",
+              "RelativeDocumentMoniker": "Ark.WeiXin\\WeiXin\\ISnsApiClient.cs",
+              "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\ISnsApiClient.cs",
+              "RelativeToolTip": "Ark.WeiXin\\WeiXin\\ISnsApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:10:44.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LabelCode.cs",
+              "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\LabelCode.cs",
+              "RelativeDocumentMoniker": "Ark.WeiXin\\WeiXin\\LabelCode.cs",
+              "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\LabelCode.cs",
+              "RelativeToolTip": "Ark.WeiXin\\WeiXin\\LabelCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:10:46.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReturnCode.cs",
+              "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\ReturnCode.cs",
+              "RelativeDocumentMoniker": "Ark.WeiXin\\WeiXin\\ReturnCode.cs",
+              "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\ReturnCode.cs",
+              "RelativeToolTip": "Ark.WeiXin\\WeiXin\\ReturnCode.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:10:47.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SnsApiClient.cs",
+              "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\SnsApiClient.cs",
+              "RelativeDocumentMoniker": "Ark.WeiXin\\WeiXin\\SnsApiClient.cs",
+              "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\SnsApiClient.cs",
+              "RelativeToolTip": "Ark.WeiXin\\WeiXin\\SnsApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:10:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\Program.cs",
               "RelativeDocumentMoniker": "Ark.WeiXin\\Program.cs",
               "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\Program.cs",
               "RelativeToolTip": "Ark.WeiXin\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T03:02:34.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Ark.WeiXin\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Ark.WeiXin\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwFEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:14:02.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MsgSecCheckResult.cs",
+              "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\Entities\\MsgSecCheckResult.cs",
+              "RelativeDocumentMoniker": "Ark.WeiXin\\WeiXin\\Entities\\MsgSecCheckResult.cs",
+              "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\Entities\\MsgSecCheckResult.cs",
+              "RelativeToolTip": "Ark.WeiXin\\WeiXin\\Entities\\MsgSecCheckResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:10:34.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IJsonResult.cs",
+              "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\Entities\\IJsonResult.cs",
+              "RelativeDocumentMoniker": "Ark.WeiXin\\WeiXin\\Entities\\IJsonResult.cs",
+              "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\Entities\\IJsonResult.cs",
+              "RelativeToolTip": "Ark.WeiXin\\WeiXin\\Entities\\IJsonResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:10:34.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAccessTokenResult.cs",
+              "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\Entities\\IAccessTokenResult.cs",
+              "RelativeDocumentMoniker": "Ark.WeiXin\\WeiXin\\Entities\\IAccessTokenResult.cs",
+              "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\Entities\\IAccessTokenResult.cs",
+              "RelativeToolTip": "Ark.WeiXin\\WeiXin\\Entities\\IAccessTokenResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:10:32.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseJsonResult.cs",
+              "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\Entities\\BaseJsonResult.cs",
+              "RelativeDocumentMoniker": "Ark.WeiXin\\WeiXin\\Entities\\BaseJsonResult.cs",
+              "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\Entities\\BaseJsonResult.cs",
+              "RelativeToolTip": "Ark.WeiXin\\WeiXin\\Entities\\BaseJsonResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:10:29.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccessTokenResult.cs",
+              "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\Entities\\AccessTokenResult.cs",
+              "RelativeDocumentMoniker": "Ark.WeiXin\\WeiXin\\Entities\\AccessTokenResult.cs",
+              "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\WeiXin\\Entities\\AccessTokenResult.cs",
+              "RelativeToolTip": "Ark.WeiXin\\WeiXin\\Entities\\AccessTokenResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:10:27.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeixinSetting.cs",
+              "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\Models\\WeixinSetting.cs",
+              "RelativeDocumentMoniker": "Ark.WeiXin\\Models\\WeixinSetting.cs",
+              "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\Models\\WeixinSetting.cs",
+              "RelativeToolTip": "Ark.WeiXin\\Models\\WeixinSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:11:28.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Ark.WeiXin\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "F:\\github\\WeiXin\\Ark.WeiXin\\Ark.WeiXin\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Ark.WeiXin\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:09:14.949Z",
               "EditorCaption": ""
             }
           ]
